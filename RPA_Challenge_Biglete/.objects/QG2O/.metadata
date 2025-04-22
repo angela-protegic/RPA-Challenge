@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Open Browser: Chrome",
+  "Type": "App",
+  "Id": "QG2OhBOz40yLuT3hUq7EAg",
+  "Reference": "uzRtyj3MhUS24EZgdx2Kbg/QG2OhBOz40yLuT3hUq7EAg",
+  "Created": "2025-04-20T08:05:04.8115426Z",
+  "Updated": "2025-04-20T08:06:24.4758167Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

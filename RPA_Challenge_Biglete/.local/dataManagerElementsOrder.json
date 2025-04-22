@@ -1,0 +1,56 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Index&Sequence_1",
+        "dt_InputData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Business Process/Excel/Excel_ReadInputData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Sheet1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_dt_InputData",
+        "in_SheetName",
+        "In_FilePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Business Process/RPA Challenge/RPAChallenge_InputData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_Index",
+        "in_Timeout",
+        "in_PhoneNumber",
+        "in_Email",
+        "in_Address",
+        "in_RoleInCompany",
+        "in_CompanyName",
+        "in_LastName",
+        "in_FirstName",
+        "in_URL"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
